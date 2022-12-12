@@ -25,7 +25,7 @@
 - Yellow LEDs (Voltage Drop, Vd ~= 2.2V) connected in active low configuration (LOW pin state turns LED on)
 - Resistor (100 ohms)
 
-<center><img src="/pictures/schematics.png"></center>\
+<center><img src="/pictures/schematics.png"></center>
 
 [3] Code function
 
